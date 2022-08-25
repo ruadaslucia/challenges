@@ -1,5 +1,5 @@
-##QR code component
-###Frontend mentor
+## QR code component
+### Frontend mentor
 
 This folder contains the first challenge that I have done from Frontend mentor.
 It is a component that contains a QR code and a little more information.
